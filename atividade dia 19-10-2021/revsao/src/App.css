@@ -1,0 +1,13 @@
+.titulo{
+  background-color: rgb(33, 245, 104);
+  color: rgb(226, 43, 43);
+  width: 100vh;
+}
+.img{
+  background-color: rgb(19, 2, 2);
+}
+.foot{
+  color: brown;
+  font-family: sans-serif;
+  font-style: italic;
+}
